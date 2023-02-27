@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a38efbc2-168e-4691-803f-4e093c76e572" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="2Lm9wvjJc5qhvDVlx3f4YBJPXB4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a38efbc2-168e-4691-803f-4e093c76e572" name="Default Changelist" comment="" />
+      <created>1676465633362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676465633362</updated>
+      <workItem from="1676465636155" duration="100000" />
+      <workItem from="1676466714647" duration="326000" />
+      <workItem from="1676467063960" duration="45000" />
+      <workItem from="1676467475758" duration="26000" />
+      <workItem from="1676467566785" duration="843000" />
+      <workItem from="1676470272420" duration="996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Custom_Plugin_Repositories" timestamp="1676466778468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Custom_Plugin_Repositories/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676466778468" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676467653774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676467653774" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1676467789272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676467789272" />
+    <state x="461" y="162" width="1104" height="716" key="SettingsEditor" timestamp="1676471265082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" width="1104" height="716" key="SettingsEditor/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676471265082" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1676470275333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676470275333" />
+    <state x="692" y="254" key="ftp.server.browser" timestamp="1676471139617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="254" key="ftp.server.browser/-1920.-75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1676471139617" />
+  </component>
+</project>

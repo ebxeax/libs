@@ -1,0 +1,8 @@
+*.srt
+toolbox/mp3make/out/周杰伦合集.srt
+toolbox/mp3make/out/张学友合集.srt
+toolbox/mp3make/out/谭咏麟合集.srt
+*.mp3
+toolbox/mp3make/src/张学友合集.mp3
+toolbox/mp3make/src/谭咏麟合集.mp3
+toolbox/mp3make/src/周杰伦合集.mp3
